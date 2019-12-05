@@ -1520,10 +1520,6 @@ body {
 .cid-rJLcWNB4f6 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rJLcWNB4f6 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rJLcWNB4f6 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rJLcWNB4f6 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rJLcWNB4f6 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1618,10 +1614,6 @@ body {
   .cid-rJLcWNB4f6 .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-rJLcWNB4f6 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-rJLcWNB4f6 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rJLcWNB4f6 .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-rJLcWNB4f6 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rJLcWNB4f6 .navbar-collapse.show .navbar-buttons {
@@ -2154,10 +2146,6 @@ body {
 .cid-rJM8VJumAW .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-rJM8VJumAW .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-rJM8VJumAW .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-rJM8VJumAW .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rJM8VJumAW .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -2253,10 +2241,6 @@ body {
   .cid-rJM8VJumAW .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
-  .cid-rJM8VJumAW .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-rJM8VJumAW .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
-  }
   .cid-rJM8VJumAW .navbar-collapse.collapsing .navbar-buttons,
   .cid-rJM8VJumAW .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -2317,7 +2301,7 @@ body {
 }
 .cid-rJM8VJumAW .nav-link:hover,
 .cid-rJM8VJumAW .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #94d912 !important;
 }
 .cid-rJLy1yjwkl {
   padding-top: 135px;
